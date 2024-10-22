@@ -1,0 +1,4 @@
+[22:39:00.974020 +08:00] [---D---] [argeo/ardk-next/core/components/component_factory_collection.cc:ComponentFactoryCollection:38] [thread 683234] api_key:78pU58BDVQY29aE5v3aN4Rz8pi05DBcpj0uINIIUOmkj48COYXhPw28ghLyGdhgDpRUZtV
+[22:39:10.695205 +08:00] [---D---] [argeo/ardk-next/core/components/component_factory_collection.cc:ComponentFactoryCollection:38] [thread 683234] api_key:78pU58BDVQY29aE5v3aN4Rz8pi05DBcpj0uINIIUOmkj48COYXhPw28ghLyGdhgDpRUZtV
+[22:50:07.950545 +08:00] [---D---] [argeo/ardk-next/core/components/component_factory_collection.cc:ComponentFactoryCollection:38] [thread 683234] api_key:78pU58BDVQY29aE5v3aN4Rz8pi05DBcpj0uINIIUOmkj48COYXhPw28ghLyGdhgDpRUZtV
+[22:55:41.335952 +08:00] [---D---] [argeo/ardk-next/core/components/component_factory_collection.cc:ComponentFactoryCollection:38] [thread 764717] api_key:78pU58BDVQY29aE5v3aN4Rz8pi05DBcpj0uINIIUOmkj48COYXhPw28ghLyGdhgDpRUZtV

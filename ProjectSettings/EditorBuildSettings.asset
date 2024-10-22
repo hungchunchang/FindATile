@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ardk-samples-main/Assets/Samples/Scanning/Scenes/Recording.unity
+    guid: a8b815c6414994643b8e7a33e5b2ccf2
+  m_configObjects:
+    Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: 1cd44959a63e544a3bc4d40bed492f3c, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9a2877d8712524b468bccfa1c4854cf3, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 69e2a655fd1724a1088673892b83435e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4c4a3f569cc554ab59649596c3c427f2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 86b2990b40b334eb9a9c608758edb1ac, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: afb3b554c7e39413ea3344d73bdd2035, type: 2}

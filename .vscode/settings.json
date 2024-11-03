@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VSP_v1.sln"
+    "dotnet.defaultSolution": "VPS_v1.sln"
 }

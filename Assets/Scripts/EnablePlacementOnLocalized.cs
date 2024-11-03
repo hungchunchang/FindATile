@@ -13,9 +13,9 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _arLocationManager = FindAnyObjectByType<ARLocationManager>();
-        _arPlaneManager = FindAnyObjectByType<ARPlaneManager>();
-        _arPlacements = FindAnyObjectByType<ARPlacements>();
+        _arLocationManager = FindObjectOfType<ARLocationManager>();
+        _arPlaneManager = FindObjectOfType<ARPlaneManager>();
+        _arPlacements = FindObjectOfType<ARPlacements>();
 
         _arPlaneManager.enabled = false;
         _arPlacements.enabled = false;
